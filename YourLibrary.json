@@ -1,0 +1,62 @@
+{
+  "tracks": [
+  ],
+  "albums": [
+  ],
+  "shows": [
+  ],
+  "episodes": [
+  ],
+  "bannedTracks": [
+  ],
+  "artists": [
+    {
+      "name": "Amit Trivedi",
+      "uri": "spotify:artist:7HCqGPJcQTyGJ2yqntbuyr"
+    },
+    {
+      "name": "Arijit Singh",
+      "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
+    },
+    {
+      "name": "Armaan Malik",
+      "uri": "spotify:artist:4IKVDbCSBTxBeAsMKjAuTs"
+    },
+    {
+      "name": "Darshan Raval",
+      "uri": "spotify:artist:2GoeZ0qOTt6kjsWW4eA6LS"
+    },
+    {
+      "name": "Dhvani Bhanushali",
+      "uri": "spotify:artist:1OPqAyxsQc8mcRmoNBAnVk"
+    },
+    {
+      "name": "Ed Sheeran",
+      "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+    },
+    {
+      "name": "Gajendra Verma",
+      "uri": "spotify:artist:1yzgJmZf5CxtFfGfRFm4Si"
+    },
+    {
+      "name": "Justin Bieber",
+      "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+    },
+    {
+      "name": "Palak Muchhal",
+      "uri": "spotify:artist:3yMmYEklQ7gLOZXEFNd3xr"
+    },
+    {
+      "name": "Taylor Swift",
+      "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+    },
+    {
+      "name": "Tony Kakkar",
+      "uri": "spotify:artist:0NZtn1Kyq08alpHCTRf3dv"
+    }
+  ],
+  "bannedArtists": [
+  ],
+  "other": [
+  ]
+}
